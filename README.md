@@ -68,5 +68,5 @@ function ConvertToWords(num)
 
 *Final Step:* Try it out 
 > Switch back to your spreadsheet and reload the page.
-> Enter the formula =CONVERTTOWORDS(Cell Number) and press Enter.
+> Enter the formula *=CONVERTTOWORDS(Cell Number)* and press Enter.
 > Expect result for example: **1,500.50** will be converted as **One Thousand Five Hundred Ringgit and Fifty Cents**
